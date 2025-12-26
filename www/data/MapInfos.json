@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"The Ashen Grave-garden","order":1,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":2,"expanded":false,"name":"Village House 1F","order":2,"parentId":1,"scrollX":1404,"scrollY":768},
+{"id":3,"expanded":true,"name":"Bên Ngoài Nghĩa Trang","order":3,"parentId":0,"scrollX":2456.5714285714284,"scrollY":1344},
+{"id":4,"expanded":false,"name":"Hang Động","order":4,"parentId":3,"scrollX":1404,"scrollY":768},
+{"id":5,"expanded":true,"name":"Cánh Đồng","order":5,"parentId":0,"scrollX":3276,"scrollY":1792},
+{"id":6,"expanded":true,"name":"Ngôi Làng Bị Lãng Quên","order":6,"parentId":5,"scrollX":3276,"scrollY":1792},
+{"id":7,"expanded":true,"name":"Làng ASHEN","order":8,"parentId":0,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":8,"expanded":true,"name":"Cửa Hàng Vật Phẩm","order":9,"parentId":7,"scrollX":1404,"scrollY":768},
+{"id":9,"expanded":true,"name":"Nhà Trọ F1","order":10,"parentId":7,"scrollX":1404,"scrollY":768},
+{"id":10,"expanded":false,"name":"Nhà Trọ F2","order":11,"parentId":9,"scrollX":1404,"scrollY":768},
+{"id":11,"expanded":false,"name":"Cửa Hàng Vũ Khí","order":12,"parentId":7,"scrollX":1404,"scrollY":768},
+{"id":12,"expanded":false,"name":"Cửa Hàng Cửa Hàng Giáp","order":13,"parentId":7,"scrollX":1404,"scrollY":768},
+{"id":13,"expanded":false,"name":"Đồng đội","order":7,"parentId":6,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":14,"expanded":false,"name":"RỪNG ASHEN","order":14,"parentId":0,"scrollX":1390.2857142857142,"scrollY":911.9999999999999},
+{"id":15,"expanded":true,"name":"BIỂN HỒ","order":15,"parentId":0,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":16,"expanded":false,"name":"HẦM NGỤC TIỀN SẢNH","order":16,"parentId":15,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":17,"expanded":false,"name":"MAP017","order":17,"parentId":15,"scrollX":3573.818181818182,"scrollY":1954.909090909091},
+{"id":18,"expanded":false,"name":"LAST STAGE","order":18,"parentId":15,"scrollX":1390.2857142857142,"scrollY":905.1428571428571}
+]
